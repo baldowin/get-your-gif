@@ -1,0 +1,12 @@
+#buttons{
+    width: 100%;
+    margin-bottom: 20px;
+}
+#gifs{
+    width: 66%;
+    float: left;
+}
+#newTopic{
+    width: 33%;
+    float: left;
+}
